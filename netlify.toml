@@ -1,7 +1,0 @@
-[build]
-  publish = "."
-
-[[redirects]]
-  from = "/*"
-  to = "/Admin/Login.php"
-  status = 200
